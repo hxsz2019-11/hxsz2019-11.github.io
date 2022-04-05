@@ -180,4 +180,4 @@
 [101]:#2021年11月22日"双减公开课"
 [102]:#2022年4月6日再次返校
 
-[201]:/photos/201.jpg
+[201]:https://gitee.com/liangji-coder/c2019-class-11/raw/master/photos/%E5%8F%8C%E5%87%8F%E5%85%AC%E5%BC%80%E8%AF%BE.jpg
