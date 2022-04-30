@@ -663,25 +663,17 @@ u1s1, tch yyds
 解释：C 代表 Class ， C11 代表 11班。  
 ~~当然这个logo十分简陋，未来会不会换我也不清楚。~~
 
-***
-
 ![logo_ljy_old](/logos/logo_ljy_old.ico)  
 设计者：李建宇  
 解释同上，这是老版。
-
-***
 
 ![logo_wxt](/logos/logo_wxt.ico)  
 提供者：王希涛  
 解释：敬请期待。
 
-***
-
 ![logo_wxy](/logos/logo_wxy.ico)  
 提供者：王鑫越  
 解释：敬请期待。
-
-***
 
 ![logo_wxy_2](/logos/logo_wxy_2.ico)  
 提供者：王鑫越  
