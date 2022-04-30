@@ -670,19 +670,19 @@ u1s1, tch yyds
 
 ***
 
-![logo_wxt](/logos/logo_wxt.ico)
+![logo_wxt](/logos/logo_wxt.ico)  
 提供者：王希涛  
 解释：敬请期待。
 
 ***
 
-![logo_wxy](/logos/logo_wxy.ico)
+![logo_wxy](/logos/logo_wxy.ico)  
 提供者：王鑫越  
 解释：敬请期待。
 
 ***
 
-![logo_wxy_2](/logos/logo_wxy_2.ico)
+![logo_wxy_2](/logos/logo_wxy_2.ico)  
 提供者：王鑫越  
 解释：敬请期待。
 
@@ -699,6 +699,7 @@ u1s1, tch yyds
 - 朱明媛：史官，也是最早提交自传的人。
 - 王鑫越：提供了2个logo。
 - 王希涛：提供了1个logo。
+
 <!-- 0~100以内，为大标题链接-->
 [1]:#编年
 [2]:#班级大记事
