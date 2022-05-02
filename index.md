@@ -698,8 +698,9 @@ u1s1, tch yyds
 
 ### 相册
 
-相册链接：[点我跳转](https://github.com/hxsz2019-11/hxsz2019-11.github.io/tree/main/photos)  
-备用链接：[点我跳转](https://gitee.com/CodeNewbie1/class11/tree/master/photos)
+> 各种各样的图片。存于百度网盘。
+
+相册链接：[点我跳转](https://pan.baidu.com/s/15s8uA-303Spla81S8QeBpQ?pwd=ab2b)
 
 ### logo大赏
 
