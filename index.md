@@ -803,6 +803,10 @@ u1s1, tch yyds
 提供者：王鑫越  
 解释：敬请期待。
 
+![logo_yry](/logos/logo_yry.png)  
+提供者：袁润野  
+解释：敬请期待。
+
 <!-- ![logo_zzh](/logos/logo_zzh.png)  
 提供者：张正寰  
 解释：敬请期待。 -->
