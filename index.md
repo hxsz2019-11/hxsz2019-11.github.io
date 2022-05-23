@@ -17,7 +17,7 @@
   - [日常](/日常.html)
   - [经典语录](/经典语录.html)
 - 附录
-  - [相册](/相册.html)
+  - [相册](https://pan.baidu.com/s/15s8uA-303Spla81S8QeBpQ?pwd=ab2b)
   - [logo大赏](/logo大赏.html)
   - [通讯录](/通讯录.html)
   - [组织系统表](/组织系统表.html)
