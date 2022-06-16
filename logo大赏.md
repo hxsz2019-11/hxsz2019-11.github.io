@@ -25,7 +25,7 @@
 ![logo_yry](/logos/logo_yry.png)  
 提供者：袁润野
 
-[返回目录](/index.html)
+[返回目录](/index)
 
 <!-- ![logo_zzh](/logos/logo_zzh.png)  
 提供者：张正寰-->
