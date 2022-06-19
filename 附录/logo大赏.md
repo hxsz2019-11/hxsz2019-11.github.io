@@ -7,8 +7,9 @@ nav_order: 5
 
 # logo大赏
 
-***
 > 收录同学们设计或提供的logo
+
+***
 
 **现用logo**  
 ![logo](/logos/logo_ljy.png)  

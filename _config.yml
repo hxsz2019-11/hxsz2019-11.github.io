@@ -40,8 +40,6 @@ search_enabled: false
 
 # Aux links for the upper right navigation
 aux_links:
-  "View on GitHub":
-    - "//github.com/hxsz2019-11/hxsz2019-11.github.io"
   "相册":
     - "//pan.baidu.com/s/15s8uA-303Spla81S8QeBpQ?pwd=ab2b#list/path=%2F"
 
