@@ -59,10 +59,6 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# Color scheme supports "dark", "light"/nil (default), or a custom scheme that you define
-# The scheme "light-or-dark" switches between "light" and "dark" with the system setting
-color_scheme: light-or-dark
-
 plugins:
   - jekyll-seo-tag
 
