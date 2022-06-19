@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+remote_theme: pmarsceill/just-the-docs
 title: 和县三中2019级11班班史
 description: 和县三中2019级11班的班史存放网站
 email: 3531148334@qq.com
@@ -48,4 +49,4 @@ aux_links_new_tab: true
 
 # Build settings
 # remote_theme: just-the-docs/just-the-docs
-remote_theme: pmarsceill/just-the-docs
+
