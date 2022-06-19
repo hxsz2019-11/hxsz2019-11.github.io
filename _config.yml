@@ -47,6 +47,5 @@ aux_links:
 aux_links_new_tab: true
 
 # Build settings
-remote_theme: just-the-docs/just-the-docs
-
-theme: "just-the-docs"
+# remote_theme: just-the-docs/just-the-docs
+remote_theme: pmarsceill/just-the-docs
