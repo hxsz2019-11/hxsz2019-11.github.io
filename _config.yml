@@ -48,4 +48,4 @@ aux_links_new_tab: true
 
 # Build settings
 # remote_theme: just-the-docs/just-the-docs
-remote_theme: pdmosses/just-the-docs@light-switch
+remote_theme: pdmosses/just-the-docs@dark-mode-toggle
