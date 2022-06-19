@@ -47,8 +47,6 @@ layout: table_wrappers
         <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
       </a>
     </div>
-    <button id="theme-toggle" onclick="modeSwitcher()" type="button" name="button" class="btn theme-toggle">→ Dark Mode</button>
-    <script> function modeSwitcher() { let currentMode = document.documentElement.getAttribute('data-theme'); if (currentMode === "dark") { document.documentElement.setAttribute('data-theme', 'light'); window.localStorage.setItem('theme', 'light'); document.getElementById("theme-toggle").innerHTML = "&rarr; Dark Mode"; } else { document.documentElement.setAttribute('data-theme', 'dark'); window.localStorage.setItem('theme', 'dark'); document.getElementById("theme-toggle").innerHTML = "&rarr; Light Mode"; } } </script>
     <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
       {% if site.just_the_docs.collections %}
         {% assign collections_size = site.just_the_docs.collections | size %}
