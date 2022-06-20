@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: 主页
 nav_order: 1
 permalink: /
 ---
