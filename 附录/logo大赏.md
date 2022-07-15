@@ -12,7 +12,16 @@ nav_order: 5
 ***
 
 **现用logo**  
-![logo](/logos/logo_ljy.png)  
+![logo](/logos/logo_hyw.png)  
+设计者：洪焱炜  
+和县三中2019级11班班史logo。  
+强调了学习时的上进感。  
+因为做的很匆忙，所以做的很好（笑）  
+大概是回忆的感觉吧。  
+抱着这样的想法拼出了这幅图。  
+当然五颗星也十分的对称。
+
+![logo_ljy](/logos/logo_ljy.png)  
 设计者：李建宇  
 解释：C 代表 Class ， C11 代表 11班。  
 ~~当然这个logo十分简陋，未来会不会换我也不清楚。~~
